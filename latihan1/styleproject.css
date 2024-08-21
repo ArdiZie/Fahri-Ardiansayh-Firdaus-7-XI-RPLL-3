@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #c6b0f8;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.container {
+    margin-bottom: 50px;
+    padding: 20px;
+    border: 2px solid #8084f7;
+    border-radius: 10px;
+    background-color: #a58dda;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    border: 1px solid #2a0851;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #5bcfe4;
+    text-align: left;
+}
+
+th {
+    background-color: #677ddd;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    border: 2px solid #8691f3;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    transition: background-color 0.3s ease;
+}
+
+.instagram-button {
+    background-color: #E1306C;
+}
+
+.instagram-button:hover {
+    background-color: #C13584;
+}
+
+.youtube-button {
+    background-color: #6a495f;
+}
+
+.youtube-button:hover {
+    background-color: #CC0000;
+}
+
+.facebook-button {
+    background-color: #1877F2;
+}
+
+.facebook-button:hover {
+    background-color: #165BBA;
+}
+
+.tiktok-button {
+    background-color: #755be6;
+}
+
+.tiktok-button:hover {
+    background-color: #b8a6a6;
+}
